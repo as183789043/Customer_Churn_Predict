@@ -1,4 +1,6 @@
-﻿# Customer_Churn_Predict
+![Logo](https://github.com/user-attachments/assets/84bd3b29-b44f-4437-8632-913c5705ee95)
+
+# Customer_Churn_Predict
 
 ## Overview
 
