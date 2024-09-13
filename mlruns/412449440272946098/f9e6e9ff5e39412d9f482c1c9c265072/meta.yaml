@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/2200908.SYSTEX/Desktop/customer_churn/customer_churn_predict/mlruns/412449440272946098/f9e6e9ff5e39412d9f482c1c9c265072/artifacts
+end_time: 1726197534644
+entry_point_name: ''
+experiment_id: '412449440272946098'
+lifecycle_stage: active
+run_id: f9e6e9ff5e39412d9f482c1c9c265072
+run_name: Light Gradient Boosting Machine
+run_uuid: f9e6e9ff5e39412d9f482c1c9c265072
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1726197533929
+status: 3
+tags: []
+user_id: '2200908'

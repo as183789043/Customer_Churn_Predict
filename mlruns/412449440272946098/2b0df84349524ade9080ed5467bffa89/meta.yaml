@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/2200908.SYSTEX/Desktop/customer_churn/customer_churn_predict/mlruns/412449440272946098/2b0df84349524ade9080ed5467bffa89/artifacts
+end_time: 1726196089985
+entry_point_name: ''
+experiment_id: '412449440272946098'
+lifecycle_stage: active
+run_id: 2b0df84349524ade9080ed5467bffa89
+run_name: Extra Trees Classifier
+run_uuid: 2b0df84349524ade9080ed5467bffa89
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1726196089388
+status: 3
+tags: []
+user_id: '2200908'

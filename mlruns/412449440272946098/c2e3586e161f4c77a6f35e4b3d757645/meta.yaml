@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/2200908.SYSTEX/Desktop/customer_churn/customer_churn_predict/mlruns/412449440272946098/c2e3586e161f4c77a6f35e4b3d757645/artifacts
+end_time: 1726196108813
+entry_point_name: ''
+experiment_id: '412449440272946098'
+lifecycle_stage: active
+run_id: c2e3586e161f4c77a6f35e4b3d757645
+run_name: Session Initialized 91a7
+run_uuid: c2e3586e161f4c77a6f35e4b3d757645
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1726195986175
+status: 3
+tags: []
+user_id: '2200908'

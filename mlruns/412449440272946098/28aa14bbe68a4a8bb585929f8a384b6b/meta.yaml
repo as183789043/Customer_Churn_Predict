@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/2200908.SYSTEX/Desktop/customer_churn/customer_churn_predict/mlruns/412449440272946098/28aa14bbe68a4a8bb585929f8a384b6b/artifacts
+end_time: 1726196092117
+entry_point_name: ''
+experiment_id: '412449440272946098'
+lifecycle_stage: active
+run_id: 28aa14bbe68a4a8bb585929f8a384b6b
+run_name: Ada Boost Classifier
+run_uuid: 28aa14bbe68a4a8bb585929f8a384b6b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1726196091543
+status: 3
+tags: []
+user_id: '2200908'

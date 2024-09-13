@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/2200908.SYSTEX/Desktop/customer_churn/customer_churn_predict/mlruns/412449440272946098/a313d4e7aec24a7c8ca1afe0af1bd028/artifacts
+end_time: 1726197522697
+entry_point_name: ''
+experiment_id: '412449440272946098'
+lifecycle_stage: active
+run_id: a313d4e7aec24a7c8ca1afe0af1bd028
+run_name: Naive Bayes
+run_uuid: a313d4e7aec24a7c8ca1afe0af1bd028
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1726197506263
+status: 3
+tags: []
+user_id: '2200908'

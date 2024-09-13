@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/2200908.SYSTEX/Desktop/customer_churn/customer_churn_predict/mlruns/412449440272946098/f3c69fc920e845758dd2adf2c4d8a9ab/artifacts
+end_time: 1726197537468
+entry_point_name: ''
+experiment_id: '412449440272946098'
+lifecycle_stage: active
+run_id: f3c69fc920e845758dd2adf2c4d8a9ab
+run_name: Gradient Boosting Classifier
+run_uuid: f3c69fc920e845758dd2adf2c4d8a9ab
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1726197536620
+status: 3
+tags: []
+user_id: '2200908'

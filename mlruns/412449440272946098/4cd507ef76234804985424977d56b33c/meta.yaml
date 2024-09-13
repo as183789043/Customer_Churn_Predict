@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/2200908.SYSTEX/Desktop/customer_churn/customer_churn_predict/mlruns/412449440272946098/4cd507ef76234804985424977d56b33c/artifacts
+end_time: 1726197531563
+entry_point_name: ''
+experiment_id: '412449440272946098'
+lifecycle_stage: active
+run_id: 4cd507ef76234804985424977d56b33c
+run_name: Ridge Classifier
+run_uuid: 4cd507ef76234804985424977d56b33c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1726197530647
+status: 3
+tags: []
+user_id: '2200908'

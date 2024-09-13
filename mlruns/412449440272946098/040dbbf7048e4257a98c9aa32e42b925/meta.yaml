@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/2200908.SYSTEX/Desktop/customer_churn/customer_churn_predict/mlruns/412449440272946098/040dbbf7048e4257a98c9aa32e42b925/artifacts
+end_time: 1726197524322
+entry_point_name: ''
+experiment_id: '412449440272946098'
+lifecycle_stage: active
+run_id: 040dbbf7048e4257a98c9aa32e42b925
+run_name: K Neighbors Classifier
+run_uuid: 040dbbf7048e4257a98c9aa32e42b925
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1726197522980
+status: 3
+tags: []
+user_id: '2200908'

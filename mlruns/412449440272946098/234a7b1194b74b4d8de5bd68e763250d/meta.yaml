@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/2200908.SYSTEX/Desktop/customer_churn/customer_churn_predict/mlruns/412449440272946098/234a7b1194b74b4d8de5bd68e763250d/artifacts
+end_time: 1726197526880
+entry_point_name: ''
+experiment_id: '412449440272946098'
+lifecycle_stage: active
+run_id: 234a7b1194b74b4d8de5bd68e763250d
+run_name: Quadratic Discriminant Analysis
+run_uuid: 234a7b1194b74b4d8de5bd68e763250d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1726197525897
+status: 3
+tags: []
+user_id: '2200908'

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/2200908.SYSTEX/Desktop/customer_churn/customer_churn_predict/mlruns/412449440272946098/ab0e211e3e084d1087037118c69a9a24/artifacts
+end_time: 1726196084751
+entry_point_name: ''
+experiment_id: '412449440272946098'
+lifecycle_stage: active
+run_id: ab0e211e3e084d1087037118c69a9a24
+run_name: Logistic Regression
+run_uuid: ab0e211e3e084d1087037118c69a9a24
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1726196083949
+status: 3
+tags: []
+user_id: '2200908'
