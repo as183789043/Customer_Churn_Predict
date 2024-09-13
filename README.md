@@ -21,7 +21,7 @@ Mirror My Other Accout from Dagshub which is Good Tools for training Model
 ![image](https://github.com/user-attachments/assets/7cce6930-2f26-4976-a477-73a82c4381b0)
 
 
-## Sorted Model By Metric (Dagshhub UI)
+## Sorted Model By Metric (Dagshub UI)
 ![image](https://github.com/user-attachments/assets/e48e837e-30c8-4c0e-9107-7b36b40677c7)
 
 ## Data Version Control (DVC) 
