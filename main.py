@@ -4,7 +4,8 @@ from pycaret.classification import *
 
 
 import dagshub
-dagshub.init(repo_owner='as183789043', repo_name='customer_churn_predict', mlflow=True)
+dagshub.init(repo_owner='as183789043', repo_name='Customer_Churn_Predict
+', mlflow=True)
 
 
 data= pd.read_csv(r"./data/raw_data.csv")
